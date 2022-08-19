@@ -14,3 +14,5 @@ Project aims to create survey form within html and css.
 - CSS Margins-Padding
 
 - CSS Properties for Texts-Font Families-Links
+
+myparallaxsite is live at https://mustafaselman.github.io/003-ParallaxWebProject/
