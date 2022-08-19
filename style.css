@@ -1,0 +1,268 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.container {
+    position: relative;
+    width: 1440px;
+    height: 900px;
+}
+.container2 {
+    display: flex;
+    flex-direction: row;
+    width: 1440px;
+    justify-content: center;
+    
+    
+}
+#section1 {
+    background-image: url("resimler/yellow.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#section2 {
+    background-image: url("resimler/orange.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#section3 {
+    background-image: url("resimler/red.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#section4 {
+    background-image: url("resimler/green.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#section5 {
+    background-image: url("resimler/purple.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#section6 {
+    background-image: url("resimler/blue.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#section7 {
+    background-image: url("resimler/black.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#yellowheadtype {
+    position: relative;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: yellow;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 1px white;
+}
+
+#yellowptype {
+    position: relative;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: yellow;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px white;
+}
+
+#orangeheadtype {
+    position: relative;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: orange;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 1px white;
+}
+
+#orangeptype {
+    position: relative;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: orange;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px white;
+}
+
+#redheadtype {
+    position: relative;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: red;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 1px white;
+}
+
+#redptype {
+    position: relative;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: red;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px white;
+}
+
+#greenheadtype {
+    position: relative;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: green;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 1px white;
+}
+
+#greenptype {
+    position: relative;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: green;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px white;
+}
+
+#blueheadtype {
+    position: relative;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: blue;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 1px white;
+}
+
+#blueptype {
+    position: relative;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: blue;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px white;
+}
+#purpleheadtype {
+    position: relative;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: purple;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 1px white;
+}
+
+#purpleptype {
+    position: relative;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: purple;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px white;
+}
+#blackheadtype {
+    position: relative;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: black;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 1px white;
+}
+
+#blackptype {
+    position: relative;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: black;
+    top: 100px;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px white;
+}
+.yellowbutton {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+    top: 100px;
+    border: 3px solid white;
+
+}
+.orangebutton {
+    position:relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: orange;
+    top: 100px;
+    border: 3px solid white;
+}
+.redbutton {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: red;
+    top: 100px;
+    border: 3px solid white;
+}
+.greenbutton {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: green;
+    top: 100px;
+    border: 3px solid white;
+}
+.bluebutton {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: blue;
+    top: 100px;
+    border: 3px solid white;
+}
+.purplebutton {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: purple;
+    top: 100px;
+    border: 3px solid white;
+}
+.blackbutton {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    top: 100px;
+    border: 3px solid white;
+}
+.yellowbutton:hover, .orangebutton:hover, .redbutton:hover,
+.greenbutton:hover, .bluebutton:hover, .purplebutton:hover,
+.blackbutton:hover {
+    border: 5px solid whitesmoke;
+    opacity: 0.5;
+}
