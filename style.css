@@ -18,43 +18,43 @@
     
 }
 #section1 {
-    background-image: url("resimler/yellow.jpg");
+    background-image: url("images/yellow.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 #section2 {
-    background-image: url("resimler/orange.jpg");
+    background-image: url("images/orange.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 #section3 {
-    background-image: url("resimler/red.jpg");
+    background-image: url("images/red.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 #section4 {
-    background-image: url("resimler/green.jpg");
+    background-image: url("images/green.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 #section5 {
-    background-image: url("resimler/purple.jpg");
+    background-image: url("images/purple.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 #section6 {
-    background-image: url("resimler/blue.jpg");
+    background-image: url("images/blue.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 
 #section7 {
-    background-image: url("resimler/black.jpg");
+    background-image: url("images/black.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
